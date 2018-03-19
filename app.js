@@ -5,6 +5,7 @@ function aBigNewFeature() {
 }
 function something() {
     console.log('This is something');
+    console.log('Bug Fixed');
 }
 console.log('Hello World');
 something();
